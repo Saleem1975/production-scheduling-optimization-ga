@@ -1,0 +1,4 @@
+strategy_tested,accuracy_test,robustness_test,reported_p_value,interpretation
+Immigration operator,t-test rejected no-improvement hypothesis,F-test rejected no-improvement hypothesis,0.0,Improved GA accuracy and robustness
+Surrogate fitness function,t-test rejected no-improvement hypothesis,F-test rejected no-improvement hypothesis,0.0,Improved GA accuracy and robustness
+Expanded initial population,t-test rejected no-improvement hypothesis,F-test rejected no-improvement hypothesis,0.0,Improved GA accuracy and robustness

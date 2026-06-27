@@ -1,0 +1,5 @@
+mutation_strategy,main_role,description
+Two Genes Exchange Mutation,Exploitation,Swaps two genes within the same machine sequence.
+Number of Jobs Mutation,Exploration and load balancing,Moves a job from the sequence with the largest tardiness to the sequence with the lowest tardiness.
+Flip Ends Mutation,Exploration,Flips jobs near the ends of a selected sequence.
+Flip Middle Mutation,Exploration,Flips jobs between two selected positions in the middle of a sequence.

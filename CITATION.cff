@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+title: "An Accurate and Robust Genetic Algorithm to Minimize the Total Tardiness in Parallel Machine Scheduling Problems"
+message: "If you use this work, please cite the published paper."
+authors:
+  - family-names: Ramadan
+    given-names: Saleem Zeyad
+  - family-names: Almasarwah
+    given-names: Najat
+  - family-names: Abdelall
+    given-names: Esraa S.
+  - family-names: Suer
+    given-names: Gursel A.
+  - family-names: Albashabsheh
+    given-names: Nibal T.
+journal: "Management and Production Engineering Review"
+volume: 14
+issue: 4
+start: 28
+end: 40
+year: 2023
+doi: "10.24425/mper.2023.147201"

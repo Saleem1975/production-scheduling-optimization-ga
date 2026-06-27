@@ -1,0 +1,2 @@
+benchmark_count,optimal_consistently_count,optimal_found_at_least_once_count,avg_deviation_under_5_count,worst_deviation_percent,max_avg_time_seconds,overall_avg_time_seconds
+13,7,11,12,14.2,297.2,143.02307692307693
